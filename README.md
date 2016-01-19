@@ -1,3 +1,4 @@
+[![Beerpay](http://test.beerpay.io/colkitox/bitcore/badge.svg?style=flat-square)](http://test.beerpay.io/colkitox/bitcore)
 Bitcore
 =======
 
