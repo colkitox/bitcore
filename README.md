@@ -87,3 +87,8 @@ To verify signatures, use the following PGP keys:
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/colkitox/bitcore/badge.svg?style=beer-square)](https://beerpay.io/colkitox/bitcore)  [![Beerpay](https://beerpay.io/img/badges/make-wish-square.svg)](https://beerpay.io/colkitox/bitcore?focus=wish)
